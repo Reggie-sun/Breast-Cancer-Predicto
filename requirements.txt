@@ -1,7 +1,7 @@
 numpy
 pandas
 plotly
-streamlit
 scikit-learn
-altair<5
+streamlit==1.29.0
+altair==4.2.2
 imghdr
