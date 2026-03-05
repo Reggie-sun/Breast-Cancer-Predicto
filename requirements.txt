@@ -3,4 +3,4 @@ pandas
 plotly
 streamlit
 scikit-learn
-
+altair<5
